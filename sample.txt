@@ -1,0 +1,5 @@
+Artificial intelligence is transforming the world.
+Machine learning helps systems learn from data.
+Data science combines statistics and programming.
+Python is widely used in AI and machine learning.
+AI models improve with more data and better algorithms.
